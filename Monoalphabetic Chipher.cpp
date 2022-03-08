@@ -39,13 +39,6 @@ int main()
 	scanf("%d",&P);
 		
 	printf("\n");
-/*
-for ( i = 0; i < len; i++)  
- {  
- 	if (a[i] >= 65 && a[i] <= 90)  
- 	b[i] = a[i] + 32;  
- } 
-*/
 
 for ( i = 0; i < len; i++)  
  {  

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f1273e48-66eb-42a3-aa60-68bec5a80215": {
+      "ProjectGuid": "f1273e48-66eb-42a3-aa60-68bec5a80215",
+      "DisplayName": "Monoalphabetic Cipher",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

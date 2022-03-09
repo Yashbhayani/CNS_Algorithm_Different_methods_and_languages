@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1a319f85-54ad-48bf-a9b6-1c4eceb01a2b": {
+      "ProjectGuid": "1a319f85-54ad-48bf-a9b6-1c4eceb01a2b",
+      "DisplayName": "Plain text to Cipher text second",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
